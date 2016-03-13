@@ -4,15 +4,15 @@
 
 ## Introduction
 
-All the work done on the Fermat project is done by a Team. We have several teams working in parallel. Most of them are teams of developers, but these are not the only types of teams. We also have teams of graphic designers, 3d artists, video producers, copy writers, publishing, etc.
+All the work done on the Fermat project is done by Teams. We have several teams working in parallel. Most of them are teams of developers, but these are not the only types of teams. We also have teams of graphic designers, 3d artists, video producers, copy writers, publishing, etc.
 
-At this file you will find a list of Fermat developers teams. Feel free to contact their team leaders if you want to join them.
+In this document you will find a list of Fermat developer teams. Feel free to contact their team leaders if you want to join them.
 
 ## Organization
 
-The maximun size of a team is 5 people. Among all of them, they should have all the skill sets needed for these kind of projects.
+The maximun size for a team is 5 people. They should have all the skill sets needed for these kind of projects as a whole.
 
-Fermat teams are organized in a hierarchical way. This helps the task of reviewing changes in source code, since it is expected that a child team changes are pushed to its parent team in order to be reviewed, merged with their own changes and pushed again to the next parent in the hierarchy. At the top the core developers are the only ones merging the combined batch of changes into the bitDubai codebase.
+Fermat teams are organized in a hierarchical way. This helps the task of reviewing changes in source code, since it is expected that a child team changes are pushed to its parent team in order to be reviewed, merged with their own changes and pushed again to the next parent in the hierarchy. At the top the core developers are the only ones merging the combined batches of changes into the bitDubai codebase.
 
 ## Team List
 
@@ -83,10 +83,10 @@ Developers and team leaders in particular are classified by the deepness of the 
 | 6 | ORG Parent Team Leader | Team Leader of a team with many sub-teams. |
 | 7 | ORG Full Parent Team Leader | Team Leader with 5 sub-teams. |
 
-Please note that whenever we mention a full-time developer is equivalent to mention two part-time developers.
+Please note that whenever we mention a full-time developer is equivalent to mentioning two part-time developers.
 
 <br>
-## Teams presentations and members
+## Team presentations and members
 
 <br>
 ### Thunder Team:
@@ -132,9 +132,9 @@ More than a Team we are a group of highly motivated friends pursuing the goal of
 <br>
 ### ![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/63e3087dc448c761d11a76d2625693fe8bcdd4b3/Logotype/FermatTeams/logo_coindiggers_team.jpg "Logo Coin Diggers Team")
 
-We are passionate geeks , always on the edge of technology and a little more. 
+We are passionate geeks, always on the edge of technology and a little more. 
 With the only phrase "Keep moving forward" we just walk through Fermat.
-We are in charge of Android-core,Fermat-Core, Android framework development and platforms like CCP, CCM among others.
+We are in charge of Android-core, Fermat-Core, Android framework development and platforms like CCP, CCM among others.
 
 #### CoinDiggers Team Members:
 
@@ -170,7 +170,7 @@ We are in charge of Android-core,Fermat-Core, Android framework development and 
 ### Disruptor Team:
 -----------------------------------
 
-We want to assemble a team that wants to combines its technical capacity with its creative talent, where you feel passion for development and for the work done and not just do it for pay, who is willing to work together and share nights without sleep.
+We want to assemble a team that wants to combine its technical capacity with its creative talent, where you feel passion for development and for the work done and not just do it for the pay, a team that is willing to work together and share nights without sleep.
 
 Currently we are a small team dedicated to the development of a communications layer based on a peer-to-peer network with all its complications, and the development of some network services.
 
@@ -248,17 +248,17 @@ In the Crypto Broker Platform we are responsible for a large part of user level 
       Skype:   josejcb89
       Github:  https://github.com/josejcb
 
-We are also ameteur philosophers, passionate about esoteric topics as video games.
+We are also amateur philosophers, passionate about esoteric topics and video games.
 
 <br/>
 ### Code Butchers Team:
 -----------------------------------
-We are a team of diverse nature developers, interested on the bases and structure of the Fermat Framework, and even nonconforming, we work along the entire platform, trying to keep the things ordered and collaborating with other teams.
+We are a team of diverse nature developers, interested on the bases and structure of the Fermat Framework, and even non-conforming, we work along the entire platform, trying to keep the things ordered and collaborating with other teams.
 
-* In the Fermat Core we are responsible for the enhancements and maintance.
+* In the Fermat Core we are responsible for the enhancements and maintenance.
 * In the OSA Platform we do our best.
 * In the Crypto Broker Platform we are responsible for the communication between its respectives actors.
-* In the Crypto Currency Platform we developed a serie of plug-ins and we have knowdlege of the whole platform.
+* In the Crypto Currency Platform we developed a serie of plug-ins and we have knowledge of the whole platform.
 
 In each platform mentioned, we are involved in the development of Network Services, GUI Components and Platform components.
 
@@ -278,7 +278,7 @@ In each platform mentioned, we are involved in the development of Network Servic
       Skype:   pmgesualdi
       Github:  https://github.com/pmgesualdi
 
-We love music and we do music, we love movies (fanatics), we are also ameteur philosophers. We're always available to talk about whatever. We would be grateful for any help received, and anyone interested in joining the team will be welcome.
+We love music and we do music, we love movies (fanatics), we are also amateur philosophers. We're always available to talk about whatever. We would be grateful for any help received, and anyone interested in joining the team will be welcome.
 
 <br/>
 ### DBZ Team:
@@ -345,7 +345,7 @@ Developers of dev.fermat.org in the client-side. We are responsible to show to t
     Skype:   ecolina4
     Github:  https://github.com/emmanuelcolina
 
-We welcome everyone who would like to join us. JavaScript is a hard languages when it comes to write big projects, but we learn and teach techniques to keep it simple to everyone.
+We welcome anyone who would like to join us. JavaScript is a hard language when it comes to writing big projects, but we learn and teach techniques to keep it simple for everyone.
 
 <br/>
 
